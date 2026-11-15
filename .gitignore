@@ -1,0 +1,4 @@
+sample/*/
+mods/*/gpui-kit.d.ts
+mods/*/jsconfig.json
+.DS_Store
